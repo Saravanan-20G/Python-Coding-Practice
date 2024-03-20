@@ -1,4 +1,5 @@
-1.Write a code to get an integer N and print the values from N to 1.
+Question 1.
+Write a code to get an integer N and print the values from N to 1.
 
 Input Description: A single line contains an integer N.
 
@@ -6,3 +7,17 @@ Output Description: Print the values from N to 1 in a separate line.
 
 Sample Input : 10 Sample Output : 10 9 8 7 6 5 4 3 2 1
 
+Question 2
+
+Given a number m and k separated by a space print n numbers which multiple of m
+
+Input Description:
+number m and k separated by a space 0<n<1000 0<m<1000
+
+Output Description:
+print n numbers which multiple of m
+
+Sample Input :
+5 4
+Sample Output :
+4 8 12 16 20
